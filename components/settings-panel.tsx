@@ -6,7 +6,7 @@ import type { ThemePref } from "@/lib/theme";
 import type { ManagedSite } from "@/lib/storage";
 import { cn, FOCUS_RING } from "@/lib/utils";
 
-const REPO_URL = "https://github.com/IIMrRobotII/rtl-helper";
+const REPO_URL = "https://github.com/IIMrRobotII/RTL-Helper";
 
 export function SettingsPanel({
   theme,

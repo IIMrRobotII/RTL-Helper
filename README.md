@@ -3,6 +3,8 @@
 A Manifest V3 Chrome extension for fixing right-to-left text on websites you
 choose.
 
+Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/rtl-helper/odchcihfmpckginapfjkejbffhfleoio).
+
 RTL Mode detects Hebrew, Arabic, and other right-to-left text on an enabled site
 and sets the reading direction on the matching block. English words, numbers,
 URLs, and filenames stay readable. The setting is saved per site.
